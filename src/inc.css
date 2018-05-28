@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Life+Savers');
+
+.button {
+    font-family: 'Life Savers', cursive;
+    font-size: 32px;
+    margin: 10px;
+    padding-top: 10px;
+}
+
+p {
+    font-family: 'Life Savers', cursive;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+
+
+body {
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 100px;
+}
